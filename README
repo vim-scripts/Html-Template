@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4845
+
+This plugin enables you to work faster.
+It paste a base frame if you edit a new file with the ending .php, .html or .htm. 
+An African proverb:
+"If many little people do in many small places a lot of small things, they can change the face of the world."
+
+Try out:
+1. Started vim.
+2. Run :e test.html
+
+If you have the right settings, the code was added.
