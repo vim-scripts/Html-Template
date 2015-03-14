@@ -6,7 +6,7 @@ An African proverb:
 "If many little people do in many small places a lot of small things, they can change the face of the world."
 
 Try out:
-1. Started vim.
+1. Start vim.
 2. Run :e test.html
 
-If you have the right settings, the code was added.
+If you have the right settings, the code have been added.

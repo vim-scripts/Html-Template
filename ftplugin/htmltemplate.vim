@@ -13,3 +13,5 @@ call setline(6, '<body>')
 call setline(7, '')
 call setline(8, '</body>')
 call setline(9, '</html>')
+
+normal gg=G
